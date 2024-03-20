@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souryadipta Das</h1>
 
 <h3 align="center">Passionate Tech Enthusiast: Merging Data Science, Development, and Learning</h3>
-# 💫 About Me: 🔭 I’m currently working on Full-Stack-Grocery-Management-Application<br>🌱 I’m currently learning Data Science and Data manipulation Software and Customer Interaction and Experience Machine Learning Deep Learning<br>👯 I’m looking to collaborate on Data Science projects Machine Learning projects<br>🤝 I’m looking for help with Enhancing skills in Data Science and Machine Learning Developing proficiency in Cloud Computing<br>📫 How to reach me souryadiptadas14102@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1nMNafV3OlNq7MsTEp-O9GPK6T-5co0s7/view?usp=sharing https://github.com/SyndicateSiD/SyndicateSiD/blob/main/README.md
+# 💫 About Me: 🔭 I’m currently working on Full-Stack-Grocery-Management-Application<br>🌱 I’m currently learning Data Science and Data manipulation Software and Customer Interaction and Experience Machine Learning Deep Learning<br>👯 I’m looking to collaborate on Data Science projects Machine Learning projects<br>🤝 I’m looking for help with Enhancing skills in Data Science and Machine Learning Developing proficiency in Cloud Computing<br>📫 How to reach me souryadiptadas14102@gmail.com<br>📄 Know about my experiences <resume></resume> "https://drive.google.com/file/d/1nMNafV3OlNq7MsTEp-O9GPK6T-5co0s7/view?usp=sharing https://github.com/SyndicateSiD/SyndicateSiD/blob/main/README.md"
 
 
 ## 🌐 Socials:
