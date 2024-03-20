@@ -3,7 +3,7 @@
     <h1 align="center">Hi 👋, I'm Souryadipta Das</h1>
     <h3 align="center">Passionate Tech Enthusiast: Merging Data Science, Development, and Learning</h3>
     <div id="about">
-      <h2>💫 About Me:</h2>
+      <h2>About Me:</h2>
       <ul>
         <li>🔭 I’m currently working on Full-Stack-Grocery-Management-Application</li>
         <li>🌱 I’m currently learning Data Science and Data manipulation Software and Customer Interaction and Experience Machine Learning Deep Learning</li>
