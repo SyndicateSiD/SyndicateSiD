@@ -1,4 +1,4 @@
-<div class="container"style="text-align: center;">
+<div class="container" style="text-align: center;">
   <div class="content">
     <h1 align="center">Hi 👋, I'm Souryadipta Das</h1>
     <h3 align="center">Passionate Tech Enthusiast: Merging Data Science, Development, and Learning</h3>
@@ -9,15 +9,17 @@
         <li>🌱 I’m currently learning Data Science and Data manipulation Software and Customer Interaction and Experience Machine Learning Deep Learning</li>
         <li>👯 I’m looking to collaborate on Data Science projects Machine Learning projects</li>
         <li>🤝 I’m looking for help with Enhancing skills in Data Science and Machine Learning Developing proficiency in Cloud Computing</li>
-        <li>📫 How to reach me <a href="mailto:souryadiptadas14102@gmail.com">souryadiptadas14102@gmail.com</a></li>
+        <li>📫 How to reach me: <a href="mailto:souryadiptadas14102@gmail.com">souryadiptadas14102@gmail.com</a></li>
         <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1nMNafV3OlNq7MsTEp-O9GPK6T-5co0s7/view?usp=sharing" target="_blank">Resume</a></li>
       </ul>
     </div>
   </div>
-<div class="image-container">
-    <img src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="Github Visitor Count" style="width: 400px; height: auto;">
+  <div>
+    <img align="middle" alt="code" width="300" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
   </div>
 </div>
+
+
 
 
 ## 🌐 Socials:
