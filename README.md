@@ -15,11 +15,13 @@
     </div>
   </div>
   <div>
-    <img align="middle" alt="code" width="300" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<div>
+<div align="center">
+    <img align="center" alt="code" width="300" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
   </div>
-</div>
 
 
+<div align="center">
 
 
 ## 🌐 Socials:
@@ -41,6 +43,10 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=SyndicateSiD&icon=1&color=11)](https://visitcount.itsvg.in)
+
+</div>
 
