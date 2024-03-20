@@ -1,7 +1,23 @@
-<h1 align="center">Hi 👋, I'm Souryadipta Das</h1>
-
-<h3 align="center">Passionate Tech Enthusiast: Merging Data Science, Development, and Learning</h3>
-# 💫 About Me: 🔭 I’m currently working on Full-Stack-Grocery-Management-Application<br>🌱 I’m currently learning Data Science and Data manipulation Software and Customer Interaction and Experience Machine Learning Deep Learning<br>👯 I’m looking to collaborate on Data Science projects Machine Learning projects<br>🤝 I’m looking for help with Enhancing skills in Data Science and Machine Learning Developing proficiency in Cloud Computing<br>📫 How to reach me souryadiptadas14102@gmail.com<br>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1nMNafV3OlNq7MsTEp-O9GPK6T-5co0s7/view?usp=sharing" target="_blank">Resume</a> <a href="https://github.com/SyndicateSiD/SyndicateSiD/blob/main/README.md" target="_blank">GitHub</a>
+<div class="container">
+  <div class="content">
+    <h1 align="center">Hi 👋, I'm Souryadipta Das</h1>
+    <h3 align="center">Passionate Tech Enthusiast: Merging Data Science, Development, and Learning</h3>
+    <div id="about">
+      <h2>💫 About Me:</h2>
+      <ul>
+        <li>🔭 I’m currently working on Full-Stack-Grocery-Management-Application</li>
+        <li>🌱 I’m currently learning Data Science and Data manipulation Software and Customer Interaction and Experience Machine Learning Deep Learning</li>
+        <li>👯 I’m looking to collaborate on Data Science projects Machine Learning projects</li>
+        <li>🤝 I’m looking for help with Enhancing skills in Data Science and Machine Learning Developing proficiency in Cloud Computing</li>
+        <li>📫 How to reach me <a href="mailto:souryadiptadas14102@gmail.com">souryadiptadas14102@gmail.com</a></li>
+        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1nMNafV3OlNq7MsTEp-O9GPK6T-5co0s7/view?usp=sharing" target="_blank">Resume</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="image-container" style="text-align: center;">
+    <img src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="Github Visitor Count" style="width: 200px; height: auto;">
+  </div>
+</div>
 
 
 ## 🌐 Socials:
@@ -26,4 +42,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SyndicateSiD&icon=1&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
