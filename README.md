@@ -2,7 +2,7 @@
 
 <h3 align="center">Passionate Tech Enthusiast: Merging Data Science, Development, and Learning</h3>
 
-<img align=”centre” alt=”coding” width=”500” src=”https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l4NGpydjFhZHRrcmN1MzhvaDJ0ZjR4a2JhdDczdmx2bXRmYm9yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif”>
+<img align=”right” alt=”coding” width=”400” src=”[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l4NGpydjFhZHRrcmN1MzhvaDJ0ZjR4a2JhdDczdmx2bXRmYm9yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://i.giphy.com/qgQUggAC3Pfv687qPC.webp)”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syndicatesid&label=Profile%20views&color=0e75b6&style=flat" alt="syndicatesid" /> </p>
 
