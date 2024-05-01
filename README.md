@@ -10,7 +10,7 @@
         <li>👯 I’m looking to collaborate on Data Science projects Machine Learning projects</li>
         <li>🤝 I’m looking for help with Enhancing skills in Data Science and Machine Learning Developing proficiency in Cloud Computing</li>
         <li>📫 How to reach me: <a href="mailto:souryadiptadas14102@gmail.com">souryadiptadas14102@gmail.com</a></li>
-        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1nMNafV3OlNq7MsTEp-O9GPK6T-5co0s7/view?usp=sharing" target="_blank">Resume</a></li>
+        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1yOEnoSRfk58PlSK3DCJ5od6tO65VGy89/view" target="_blank">Resume</a></li>
       </ul>
     </div>
   </div>
