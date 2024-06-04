@@ -2,7 +2,7 @@
   <div class="content">
     <img src="linkedinbanner.jpg" alt="LinkedIn Banner" style="width:100%;">
     <h1 align="center">Hi 👋</h1>
-    <h3 align="center">Passionate Tech Enthusiast: Merging Data Science, Development, and Learning</h3>
+    <h3 align="center">A Passionate Tech Enthusiast: Merging Data Science, Development, and Learning</h3>
     <div id="about">
       <h2>About Me:</h2>
       <ul>
